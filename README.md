@@ -8,7 +8,10 @@ Completes words that you have partially typed, using a dictionary of words that 
 has previously typed (does not draw from the full English dictionary).
 
 Currently being made:
-Custom commands to gain more control and usage, such as end program, stop/resume program, and custom copy paste.
+Front end UI using JavaFX.
+
+Known bugs:
+The special commands acresume, acpause, acstop sometimes cause errors.
 
 Final thoughts about program:
 Has very limited utility, because a suprisingly amount of applications already have some sort of
