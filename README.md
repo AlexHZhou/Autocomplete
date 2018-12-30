@@ -4,8 +4,8 @@ I kept mispelling "Khruschev" so I thought, it'd be nice to have a application t
 Only uploading recently because I know how to use git now and was looking through old projects.
 
 Purpose:
-Completes words that you have partially typed, using a dictionary of word that the user 
-has typed (not the full English dictionary).
+Completes words that you have partially typed, using a dictionary of words that the user 
+has previously typed (does not draw from the full English dictionary).
 
 Currently being made:
 Custom commands to gain more control and usage, such as end program, stop/resume program, and custom copy paste.
